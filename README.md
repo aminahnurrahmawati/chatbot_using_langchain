@@ -1,2 +1,2 @@
 # chatbot_using_langchain
-chatbot using LLM langchain
+develop simple chatbot microservice using LLM langchain and flask framework
